@@ -18,7 +18,11 @@ The state of Rio Grande do Sul (Brazil) experienced heavy rainfall starting in l
 
 ## Results
 - The analysis revealed numerous areas that experienced significant flooding, particularly along riverbanks and low-lying regions.
+![Flood Analysis](./floods.jpg)
+
+- The analysis revealed numerous areas that experienced significant flooding, particularly along riverbanks and low-lying regions.
 - These flooded areas caused extensive damage to infrastructure, agriculture, and resulted in the displacement of thousands of people.
+
 
 ## Conclusion
 The use of satellite imagery and remote sensing techniques, coupled with the power of the Google Earth Engine, provided valuable insights into the extent and impact of the floods in Rio Grande do Sul. By identifying and analyzing potential flood areas, we can better understand the scale of the disaster and aid in the development of effective disaster response and mitigation strategies.
